@@ -1,0 +1,1 @@
+module.exports = { API_HOST: "https://api-exceptionally.herokuapp.com" }
